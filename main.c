@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #include "array_utils.h"
@@ -23,3 +24,8 @@ int main(){
   free_m(M,3);
   return 0;
 }
+=======
+// simple program
+// dev version
+// dev version for variant 18
+>>>>>>> dev
